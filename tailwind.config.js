@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'dancing' : ['Dancing Script'],
+        'dancing' : 'Dancing Script',
+        'alex-brush' : 'Alex Brush'
       },
     },
   },
